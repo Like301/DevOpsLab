@@ -5,7 +5,7 @@ A Bash script to get basic perfomance stats
 1. **Clone the repository**
     ```
     git clone https://github.com/Like301/DevOpsLab.git
-    cd server-performance-stats
+    cd DevOpsLab/server-performance-stats
     ```
 
 2. **Make the script executable**
